@@ -8,7 +8,7 @@
 [![blog](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199013636490/)
 
 ![Yohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YohanBRUHH&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### **Tecnologias que eu estou aprendendo**
 
 <div style= "dipslay: inline_block"><br/>
